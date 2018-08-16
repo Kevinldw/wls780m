@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WLS780M</string>
+    <string name="str_ok"></string>
+    <string name="str_unknow">未知传感器信息</string>
+
+    <string name="str_writeArgs">写参数</string>
+    <string name="str_setRF">设置射频</string>
+    <string name="str_change">改传感器</string>
+    <string name="str_readP">读参数</string>
+    <string name="str_tempW">临时波形</string>
+    <string name="str_readRF">读射频参数</string>
+    <string name="str_unknowS">未知传感器</string>
+    <string name="str_readD">读数据</string>
+    <string name="str_lost">丢包率测试</string>
+    <string name="str_tempT">临时温度</string>
+
+    <string name="str_name">传感器：</string>
+    <string name="str_channel">信道号：</string>
+    <string name="str_pan">网络号：</string>
+    <string name="str_confirm">确认</string>
+</resources>

@@ -1,0 +1,340 @@
+The system is: Windows - 6.1.7601 - x86
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft(R) ��������汾 12.0.21005.1
+[Microsoft .NET Framework �汾 4.0.30319.42000]
+��Ȩ���� (C) Microsoft Corporation����������Ȩ����
+
+��������ʱ��Ϊ 2018/5/18 23:21:37��
+�ڵ� 1 �ϵ���Ŀ��I:\bluetooth\wls780m\wls780jni\CMakeFiles\3.10.3\CompilerIdC\CompilerIdC.vcxproj��(Ĭ��Ŀ��)��
+PrepareForBuild:
+  ���ڴ���Ŀ¼��Debug\����
+  ���ڴ���Ŀ¼��Debug\CompilerIdC.tlog\����
+InitializeBuildStatus:
+  ���ڴ�����Debug\CompilerIdC.tlog\unsuccessfulbuild������Ϊ��ָ����AlwaysCreate����
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> I:\bluetooth\wls780m\wls780jni\CMakeFiles\3.10.3\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  ����ɾ���ļ���Debug\CompilerIdC.tlog\unsuccessfulbuild����
+  ���ڶԡ�Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate��ִ�� Touch ����
+�����������Ŀ��I:\bluetooth\wls780m\wls780jni\CMakeFiles\3.10.3\CompilerIdC\CompilerIdC.vcxproj��(Ĭ��Ŀ��)�Ĳ�����
+
+�ѳɹ����ɡ�
+    0 ������
+    0 ������
+
+����ʱ�� 00:00:03.94
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "I:/bluetooth/wls780m/wls780jni/CMakeFiles/3.10.3/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft(R) ��������汾 12.0.21005.1
+[Microsoft .NET Framework �汾 4.0.30319.42000]
+��Ȩ���� (C) Microsoft Corporation����������Ȩ����
+
+��������ʱ��Ϊ 2018/5/18 23:21:41��
+�ڵ� 1 �ϵ���Ŀ��I:\bluetooth\wls780m\wls780jni\CMakeFiles\3.10.3\CompilerIdCXX\CompilerIdCXX.vcxproj��(Ĭ��Ŀ��)��
+PrepareForBuild:
+  ���ڴ���Ŀ¼��Debug\����
+  ���ڴ���Ŀ¼��Debug\CompilerIdCXX.tlog\����
+InitializeBuildStatus:
+  ���ڴ�����Debug\CompilerIdCXX.tlog\unsuccessfulbuild������Ϊ��ָ����AlwaysCreate����
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> I:\bluetooth\wls780m\wls780jni\CMakeFiles\3.10.3\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  ����ɾ���ļ���Debug\CompilerIdCXX.tlog\unsuccessfulbuild����
+  ���ڶԡ�Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate��ִ�� Touch ����
+�����������Ŀ��I:\bluetooth\wls780m\wls780jni\CMakeFiles\3.10.3\CompilerIdCXX\CompilerIdCXX.vcxproj��(Ĭ��Ŀ��)�Ĳ�����
+
+�ѳɹ����ɡ�
+    0 ������
+    0 ������
+
+����ʱ�� 00:00:01.87
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "I:/bluetooth/wls780m/wls780jni/CMakeFiles/3.10.3/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: I:/bluetooth/wls780m/wls780jni/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files/MSBuild/12.0/bin/MSBuild.exe" "cmTC_60844.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.21005.1
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/5/18 23:21:44。
+节点 1 上的项目“I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\cmTC_60844.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_60844.dir\Debug\”。
+  正在创建目录“I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_60844.dir\Debug\cmTC_60844.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_60844.dir\Debug\cmTC_60844.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_60844.dir\Debug\\" /Fd"cmTC_60844.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\testCCompiler.c
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_60844.dir\Debug\\" /Fd"cmTC_60844.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\testCCompiler.c
+  
+  testCCompiler.c
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\Debug\cmTC_60844.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"I:/bluetooth/wls780m/wls780jni/CMakeFiles/CMakeTmp/Debug/cmTC_60844.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:/bluetooth/wls780m/wls780jni/CMakeFiles/CMakeTmp/Debug/cmTC_60844.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_60844.dir\Debug\testCCompiler.obj
+  cmTC_60844.vcxproj -> I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\Debug\cmTC_60844.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_60844.dir\Debug\cmTC_60844.tlog\unsuccessfulbuild”。
+  正在对“cmTC_60844.dir\Debug\cmTC_60844.tlog\cmTC_60844.lastbuildstate”执行 Touch 任务。
+已完成生成项目“I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\cmTC_60844.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.99
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: I:/bluetooth/wls780m/wls780jni/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files/MSBuild/12.0/bin/MSBuild.exe" "cmTC_73d4d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.21005.1
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/5/18 23:21:46。
+节点 1 上的项目“I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\cmTC_73d4d.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_73d4d.dir\Debug\”。
+  正在创建目录“I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_73d4d.dir\Debug\cmTC_73d4d.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_73d4d.dir\Debug\cmTC_73d4d.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_73d4d.dir\Debug\\" /Fd"cmTC_73d4d.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\cmake-3.10.3-win32-x86\share\cmake-3.10\Modules\CMakeCCompilerABI.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_73d4d.dir\Debug\\" /Fd"cmTC_73d4d.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\cmake-3.10.3-win32-x86\share\cmake-3.10\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\Debug\cmTC_73d4d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"I:/bluetooth/wls780m/wls780jni/CMakeFiles/CMakeTmp/Debug/cmTC_73d4d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:/bluetooth/wls780m/wls780jni/CMakeFiles/CMakeTmp/Debug/cmTC_73d4d.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_73d4d.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_73d4d.vcxproj -> I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\Debug\cmTC_73d4d.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_73d4d.dir\Debug\cmTC_73d4d.tlog\unsuccessfulbuild”。
+  正在对“cmTC_73d4d.dir\Debug\cmTC_73d4d.tlog\cmTC_73d4d.lastbuildstate”执行 Touch 任务。
+已完成生成项目“I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\cmTC_73d4d.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.29
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: I:/bluetooth/wls780m/wls780jni/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files/MSBuild/12.0/bin/MSBuild.exe" "cmTC_fcce3.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.21005.1
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/5/18 23:21:48。
+节点 1 上的项目“I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\cmTC_fcce3.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_fcce3.dir\Debug\”。
+  正在创建目录“I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_fcce3.dir\Debug\cmTC_fcce3.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_fcce3.dir\Debug\cmTC_fcce3.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_fcce3.dir\Debug\\" /Fd"cmTC_fcce3.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_fcce3.dir\Debug\\" /Fd"cmTC_fcce3.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\Debug\cmTC_fcce3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"I:/bluetooth/wls780m/wls780jni/CMakeFiles/CMakeTmp/Debug/cmTC_fcce3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:/bluetooth/wls780m/wls780jni/CMakeFiles/CMakeTmp/Debug/cmTC_fcce3.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_fcce3.dir\Debug\testCXXCompiler.obj
+  cmTC_fcce3.vcxproj -> I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\Debug\cmTC_fcce3.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_fcce3.dir\Debug\cmTC_fcce3.tlog\unsuccessfulbuild”。
+  正在对“cmTC_fcce3.dir\Debug\cmTC_fcce3.tlog\cmTC_fcce3.lastbuildstate”执行 Touch 任务。
+已完成生成项目“I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\cmTC_fcce3.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:02.04
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: I:/bluetooth/wls780m/wls780jni/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files/MSBuild/12.0/bin/MSBuild.exe" "cmTC_633b4.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.21005.1
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/5/18 23:21:50。
+节点 1 上的项目“I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\cmTC_633b4.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_633b4.dir\Debug\”。
+  正在创建目录“I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_633b4.dir\Debug\cmTC_633b4.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_633b4.dir\Debug\cmTC_633b4.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_633b4.dir\Debug\\" /Fd"cmTC_633b4.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\cmake-3.10.3-win32-x86\share\cmake-3.10\Modules\CMakeCXXCompilerABI.cpp"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_633b4.dir\Debug\\" /Fd"cmTC_633b4.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\cmake-3.10.3-win32-x86\share\cmake-3.10\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\Debug\cmTC_633b4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"I:/bluetooth/wls780m/wls780jni/CMakeFiles/CMakeTmp/Debug/cmTC_633b4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:/bluetooth/wls780m/wls780jni/CMakeFiles/CMakeTmp/Debug/cmTC_633b4.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_633b4.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_633b4.vcxproj -> I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\Debug\cmTC_633b4.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_633b4.dir\Debug\cmTC_633b4.tlog\unsuccessfulbuild”。
+  正在对“cmTC_633b4.dir\Debug\cmTC_633b4.tlog\cmTC_633b4.lastbuildstate”执行 Touch 任务。
+已完成生成项目“I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\cmTC_633b4.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.24
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: I:/bluetooth/wls780m/wls780jni/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files/MSBuild/12.0/bin/MSBuild.exe" "cmTC_b0377.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.21005.1
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/5/18 23:21:52。
+节点 1 上的项目“I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\cmTC_b0377.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_b0377.dir\Debug\”。
+  正在创建目录“I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_b0377.dir\Debug\cmTC_b0377.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_b0377.dir\Debug\cmTC_b0377.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_b0377.dir\Debug\\" /Fd"cmTC_b0377.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue I:\bluetooth\wls780m\wls780jni\CMakeFiles\feature_tests.cxx
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_b0377.dir\Debug\\" /Fd"cmTC_b0377.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue I:\bluetooth\wls780m\wls780jni\CMakeFiles\feature_tests.cxx
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\Debug\cmTC_b0377.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"I:/bluetooth/wls780m/wls780jni/CMakeFiles/CMakeTmp/Debug/cmTC_b0377.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:/bluetooth/wls780m/wls780jni/CMakeFiles/CMakeTmp/Debug/cmTC_b0377.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_b0377.dir\Debug\feature_tests.obj
+  cmTC_b0377.vcxproj -> I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\Debug\cmTC_b0377.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_b0377.dir\Debug\cmTC_b0377.tlog\unsuccessfulbuild”。
+  正在对“cmTC_b0377.dir\Debug\cmTC_b0377.tlog\cmTC_b0377.lastbuildstate”执行 Touch 任务。
+已完成生成项目“I:\bluetooth\wls780m\wls780jni\CMakeFiles\CMakeTmp\cmTC_b0377.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.23
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates

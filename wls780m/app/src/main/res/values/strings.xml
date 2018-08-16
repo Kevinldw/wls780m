@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WLS780M</string>
+    <string name="str_ok"></string>
+    <string name="str_unknow">Sensor Info</string>
+
+    <string name="str_writeArgs">写参数</string>
+    <string name="str_setRF">Set RF</string>
+    <string name="str_change">Rewrite Sensor RF</string>
+    <string name="str_readP">读参数</string>
+    <string name="str_tempW">Vib. Measuring</string>
+    <string name="str_readRF">读射频参数</string>
+    <string name="str_unknowS">Seek Sensor</string>
+    <string name="str_readD">Measured Data</string>
+    <string name="str_lost">Packet Loss Test</string>
+    <string name="str_tempT">Temp. Measuring</string>
+
+    <string name="str_name">Sensor:</string>
+    <string name="str_channel">Channel:</string>
+    <string name="str_pan">Net ID:</string>
+    <string name="str_confirm">Confirm</string>
+</resources>
